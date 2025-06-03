@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shashiraj/Desktop/catkin_ws/devel/include/**",
+        "/home/shashiraj/first_file/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/cpppubsub/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/mobile_robot/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/robot_setup_tf/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/server/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/transform/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/shashiraj/Desktop/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
