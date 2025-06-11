@@ -1,2 +1,0 @@
-two_wheel_robot
--DCATKIN_DEVEL_PREFIX=/home/shashiraj/2wheel_drive/devel -DCMAKE_INSTALL_PREFIX=/home/shashiraj/2wheel_drive/install -G Unix Makefiles
